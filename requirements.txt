@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+langchain-community
+faiss-cpu
+langchain-google-genai
+gradio
+scikit-learn
+langchain-core>=1.8.4,<2.0.0
